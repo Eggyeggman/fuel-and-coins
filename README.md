@@ -1,2 +1,1 @@
-# fule-and-coins
-how do you pick up the coins?
+# C37-SpeedRacer_ReferenceCode
